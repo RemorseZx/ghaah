@@ -3,8 +3,8 @@
 --// EXECUTE ONCE - NO ERRORS
 
 --// CONFIG
-local webhookURL = "https://discord.com/api/webhooks/1413827075852210226/E_mpVVmUvMglm5KFGOY0xLEyMdmR5DJki-oNLcR_wFarG0LiJToPu4D4E-nR89PiKxKF"
-local scriptVersion = "TAONG GOMA V7"
+local webhookURL = "https://discord.com/api/webhooks/1434153361153855631/dANFwT-MTJzToO0S3R-191QFAThLzaHACGMWS_hAx0SWt1sduWyYwp89_YWan7KmjL7g"
+local scriptVersion = "ALADIA PVP SCRIPT"
 local executorName = (identifyexecutor and identifyexecutor()) or "Unknown Executor"
 local webhookUsername = "Monsy West"
 local webhookAvatarURL = "https://media.discordapp.net/attachments/1405859756756828251/1411694185245048983/1752754542988.jpg"
